@@ -1,6 +1,6 @@
 package com.le1;
 
-public class Two_Ssum
+public class Two_Sum
 {
 	
 	/**
@@ -8,7 +8,7 @@ public class Two_Ssum
 	 */
 	public static void main(String [ ] args)
 	{
-		// TODO Auto-generated method stub
+		int a;
 		
 	}
 	
